@@ -1,0 +1,3 @@
+[submodule "Syphon"]
+	path = Syphon
+	url = https://github.com/lachlanbell/Syphon-Metal

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MixKit/MixKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MixKitDemoApp/MixKitDemoApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SyphonCore/SyphonCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Syphon/Syphon.xcodeproj">
+   </FileRef>
+</Workspace>
