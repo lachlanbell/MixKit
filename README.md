@@ -6,7 +6,8 @@ MixKit is a realtime video compositing framework built on Metal, that formed the
 
 Below is a demo of building a simple presentation scene in MixKit, from two live Syphon sources and a static image:
 
-https://github.com/lachlanbell/MixKit/assets/19360256/d9eb8adc-12ed-4797-b10b-61d9b2b7f7a5
+
+https://github.com/lachlanbell/MixKit/assets/19360256/a616a0f3-e461-463d-a567-321a82ae8e6c
 
 
 ## Overview
